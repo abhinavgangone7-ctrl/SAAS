@@ -73,7 +73,7 @@ REACT_APP_YOUTUBE_API_KEY=your_youtube_api_key  ##careful final touch
 # reCAPTCHA
 REACT_APP_RECAPTCHA_SITE_KEY=your_recaptcha_site_key
 
-# Bumpups API
+# Bumpups API    #skibidi dob dob
 BUMPUPS_API_KEY=your_bumpups_api_key
 ```
 
