@@ -68,7 +68,7 @@ REACT_APP_APP_ID=your_firebase_app_id
 REACT_APP_MEASUREMENT_ID=your_measurement_id
 
 # YouTube Data API
-REACT_APP_YOUTUBE_API_KEY=your_youtube_api_key
+REACT_APP_YOUTUBE_API_KEY=your_youtube_api_key  ##careful final touch
 
 # reCAPTCHA
 REACT_APP_RECAPTCHA_SITE_KEY=your_recaptcha_site_key
@@ -81,6 +81,7 @@ Make sure to never commit your `.env`—it’s included in `.gitignore` by defau
 
 ---
 // cool stuff mann!! i am practicing 
+
 # 📚 Google Doc Resources
 
 | Resource                               | Description                           | Link                                                                                                                                           |
