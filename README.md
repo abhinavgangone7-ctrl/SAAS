@@ -80,7 +80,7 @@ BUMPUPS_API_KEY=your_bumpups_api_key
 Make sure to never commit your `.env`—it’s included in `.gitignore` by default.
 
 ---
-// cool stuff mann!!
+// cool stuff mann!! i am practicing 
 # 📚 Google Doc Resources
 
 | Resource                               | Description                           | Link                                                                                                                                           |
