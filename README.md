@@ -92,7 +92,7 @@ Make sure to never commit your `.env`—it’s included in `.gitignore` by defau
 
 ---
 
-# 🙌 Follow Me for more such content yo yo
+# 🙌 Follow Me @bhi.yo yo 
 
 Stay up-to-date with new tutorials, tips, and behind-the-scenes:
 
