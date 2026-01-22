@@ -68,18 +68,19 @@ REACT_APP_APP_ID=your_firebase_app_id
 REACT_APP_MEASUREMENT_ID=your_measurement_id
 
 # YouTube Data API
-REACT_APP_YOUTUBE_API_KEY=your_youtube_api_key
+REACT_APP_YOUTUBE_API_KEY=your_youtube_api_key  ##careful final touch
 
 # reCAPTCHA
 REACT_APP_RECAPTCHA_SITE_KEY=your_recaptcha_site_key
 
-# Bumpups API
+# Bumpups API    #skibidi dob dob
 BUMPUPS_API_KEY=your_bumpups_api_key
 ```
 
 Make sure to never commit your `.env`—it’s included in `.gitignore` by default.
 
 ---
+// cool stuff mann!! i am practicing 
 
 # 📚 Google Doc Resources
 
@@ -92,7 +93,8 @@ Make sure to never commit your `.env`—it’s included in `.gitignore` by defau
 
 ---
 
-# 🙌 Follow Me for more such content yo yo
+# 🙌 Follow Me @bhi.yo yo 
+
 
 Stay up-to-date with new tutorials, tips, and behind-the-scenes:
 
